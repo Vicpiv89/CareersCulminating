@@ -1,0 +1,61 @@
+body {
+  background-image: url("secondbackground.jpg");
+  background-attachment: fixed;
+  background-size: contain 100%;
+}
+
+
+
+
+
+
+
+
+
+header {
+	font-family: "Lucida Console", monospace;
+  	color: #2C2C2C;
+  	text-align: center;
+  	padding-top: 2%;
+}
+
+
+
+
+
+
+
+
+
+.needshrink {
+	font-size: 75%;
+}
+.container1 {
+	float: left;
+	text-align: center;
+	margin-top: 10%;
+}
+.container3 {
+	float: right;
+	text-align: center;
+	margin-top: 13%;
+}
+.container2 {
+	margin-top: 10%;
+	float: right;
+	text-align: center;
+}
+.target {
+	float: right;
+}
+h5 {
+	color: #2C2C2C;
+	text-align: left;
+}
+h6 {
+	color: #2C2C2C;
+	text-align: left;
+}
+.subtitle {
+	padding-top: 1%;
+}
